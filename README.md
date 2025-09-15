@@ -21,6 +21,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RudeusGs/NeedCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/RudeusGs/NeedCode/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
