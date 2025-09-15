@@ -89,6 +89,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 ## Trie
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 ## Geometry
 |  |
 | ------- |
