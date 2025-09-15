@@ -77,6 +77,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
+| [0932-monotonic-array](https://github.com/RudeusGs/NeedCode/tree/master/0932-monotonic-array) |
 ## Math
 |  |
 | ------- |
