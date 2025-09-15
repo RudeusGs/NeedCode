@@ -9,6 +9,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -17,6 +18,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0020-valid-parentheses](https://github.com/RudeusGs/NeedCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -43,6 +45,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
