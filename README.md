@@ -84,6 +84,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0978-valid-mountain-array](https://github.com/RudeusGs/NeedCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
+| [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -211,6 +214,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
