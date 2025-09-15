@@ -40,6 +40,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0520-detect-capital](https://github.com/RudeusGs/NeedCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/RudeusGs/NeedCode/tree/master/0742-to-lower-case) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
