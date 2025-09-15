@@ -97,6 +97,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/RudeusGs/NeedCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | ------- |
 | [0495-teemo-attacking](https://github.com/RudeusGs/NeedCode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
+| [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
