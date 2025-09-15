@@ -10,6 +10,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -31,6 +32,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudeusGs/NeedCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -40,6 +42,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0069-sqrtx](https://github.com/RudeusGs/NeedCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/RudeusGs/NeedCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -47,6 +50,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
@@ -69,6 +73,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RudeusGs/NeedCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -99,6 +104,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
