@@ -78,6 +78,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/RudeusGs/NeedCode/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
+| [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
+| [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
