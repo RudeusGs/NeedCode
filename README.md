@@ -21,6 +21,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -75,6 +76,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
+| [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +142,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 ## Tree
 |  |
 | ------- |
