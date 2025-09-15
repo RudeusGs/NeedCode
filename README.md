@@ -44,6 +44,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0742-to-lower-case](https://github.com/RudeusGs/NeedCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
+| [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0932-monotonic-array](https://github.com/RudeusGs/NeedCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/RudeusGs/NeedCode/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 ## String Matching
 |  |
 | ------- |
@@ -205,6 +208,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
+| [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 ## Simulation
 |  |
 | ------- |
