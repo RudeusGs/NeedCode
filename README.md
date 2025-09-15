@@ -41,6 +41,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/RudeusGs/NeedCode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -124,6 +125,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
