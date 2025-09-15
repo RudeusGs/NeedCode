@@ -13,6 +13,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -22,6 +23,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -126,4 +128,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RudeusGs/NeedCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RudeusGs/NeedCode/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
