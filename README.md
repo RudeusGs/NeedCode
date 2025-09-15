@@ -47,6 +47,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0283-move-zeroes](https://github.com/RudeusGs/NeedCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/RudeusGs/NeedCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RudeusGs/NeedCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/RudeusGs/NeedCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
