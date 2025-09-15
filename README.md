@@ -67,6 +67,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
+| [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 ## Tree
 |  |
 | ------- |
