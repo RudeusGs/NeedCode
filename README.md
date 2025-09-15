@@ -45,6 +45,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0263-ugly-number](https://github.com/RudeusGs/NeedCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RudeusGs/NeedCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RudeusGs/NeedCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -108,9 +109,11 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | ------- |
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/RudeusGs/NeedCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RudeusGs/NeedCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RudeusGs/NeedCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
