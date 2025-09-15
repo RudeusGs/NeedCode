@@ -122,6 +122,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RudeusGs/NeedCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3830-find-closest-person](https://github.com/RudeusGs/NeedCode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
 | ------- |
