@@ -17,6 +17,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RudeusGs/NeedCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -48,6 +49,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/RudeusGs/NeedCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
