@@ -62,6 +62,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -176,6 +177,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0409-longest-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
 ## Simulation
 |  |
 | ------- |
