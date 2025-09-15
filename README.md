@@ -6,6 +6,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -14,6 +15,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
