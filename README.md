@@ -85,6 +85,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
+| [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
