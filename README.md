@@ -96,6 +96,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RudeusGs/NeedCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/RudeusGs/NeedCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
@@ -253,4 +254,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
