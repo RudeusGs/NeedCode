@@ -35,6 +35,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0409-longest-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/RudeusGs/NeedCode/tree/master/0520-detect-capital) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
