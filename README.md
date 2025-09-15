@@ -98,6 +98,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1580-shuffle-the-array](https://github.com/RudeusGs/NeedCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudeusGs/NeedCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RudeusGs/NeedCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -260,4 +262,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
