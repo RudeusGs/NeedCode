@@ -74,6 +74,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0342-power-of-four](https://github.com/RudeusGs/NeedCode/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 ## Sorting
 |  |
 | ------- |
@@ -207,4 +209,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
