@@ -39,6 +39,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0009-palindrome-number](https://github.com/RudeusGs/NeedCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/RudeusGs/NeedCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/RudeusGs/NeedCode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
