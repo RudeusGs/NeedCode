@@ -14,6 +14,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -24,6 +25,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -132,4 +134,9 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
