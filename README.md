@@ -79,6 +79,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/RudeusGs/NeedCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
+| [0978-valid-mountain-array](https://github.com/RudeusGs/NeedCode/tree/master/0978-valid-mountain-array) |
 ## Math
 |  |
 | ------- |
