@@ -56,6 +56,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/RudeusGs/NeedCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0389-find-the-difference](https://github.com/RudeusGs/NeedCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RudeusGs/NeedCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
@@ -170,4 +172,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/RudeusGs/NeedCode/tree/master/0495-teemo-attacking) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
