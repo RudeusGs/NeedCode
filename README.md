@@ -45,6 +45,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/RudeusGs/NeedCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 ## Math
 |  |
 | ------- |
