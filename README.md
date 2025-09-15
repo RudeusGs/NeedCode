@@ -92,6 +92,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được triển khai ch�
 | [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/RudeusGs/NeedCode/tree/master/1168-duplicate-zeros) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudeusGs/NeedCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/RudeusGs/NeedCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
 | ------- |
