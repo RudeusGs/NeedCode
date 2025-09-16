@@ -70,6 +70,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0238-product-of-array-except-self](https://github.com/RudeusGs/NeedCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RudeusGs/NeedCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/RudeusGs/NeedCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/RudeusGs/NeedCode/tree/master/0414-third-maximum-number) |
@@ -278,6 +279,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RudeusGs/NeedCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/RudeusGs/NeedCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Number Theory
@@ -285,4 +287,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RudeusGs/NeedCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
