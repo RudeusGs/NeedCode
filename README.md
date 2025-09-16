@@ -19,6 +19,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0389-find-the-difference](https://github.com/RudeusGs/NeedCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/RudeusGs/NeedCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
@@ -78,6 +79,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/RudeusGs/NeedCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/RudeusGs/NeedCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
@@ -164,6 +166,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RudeusGs/NeedCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/RudeusGs/NeedCode/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
@@ -298,4 +301,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/RudeusGs/NeedCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
