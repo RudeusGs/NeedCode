@@ -13,6 +13,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RudeusGs/NeedCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
@@ -41,6 +42,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/RudeusGs/NeedCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RudeusGs/NeedCode/tree/master/0389-find-the-difference) |
