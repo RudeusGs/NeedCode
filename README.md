@@ -8,6 +8,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudeusGs/NeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
@@ -38,6 +39,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0020-valid-parentheses](https://github.com/RudeusGs/NeedCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
