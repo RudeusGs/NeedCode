@@ -50,6 +50,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/RudeusGs/NeedCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RudeusGs/NeedCode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/RudeusGs/NeedCode/tree/master/0520-detect-capital) |
@@ -134,6 +135,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0326-power-of-three](https://github.com/RudeusGs/NeedCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RudeusGs/NeedCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/RudeusGs/NeedCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RudeusGs/NeedCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
@@ -277,6 +279,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RudeusGs/NeedCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RudeusGs/NeedCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/RudeusGs/NeedCode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
