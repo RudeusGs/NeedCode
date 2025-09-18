@@ -124,6 +124,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
+| [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0495-teemo-attacking](https://github.com/RudeusGs/NeedCode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,4 +333,9 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
+| [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
