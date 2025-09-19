@@ -7,7 +7,6 @@ public:
         for(int x: arr2){
             if(mp[x] == 0) continue;
             int a = mp[x];
-            if(x == 0) a = 1;
             for(int i = 0; i < a; i++)
                 res.push_back(x);
             mp[x] = 0;
