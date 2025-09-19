@@ -39,6 +39,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudeusGs/NeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/RudeusGs/NeedCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/RudeusGs/NeedCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RudeusGs/NeedCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -196,6 +197,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RudeusGs/NeedCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0125-valid-palindrome) |
@@ -247,6 +249,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RudeusGs/NeedCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/RudeusGs/NeedCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudeusGs/NeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudeusGs/NeedCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
