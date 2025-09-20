@@ -36,6 +36,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RudeusGs/NeedCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -141,6 +142,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -348,6 +352,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -364,6 +369,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
