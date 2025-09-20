@@ -131,6 +131,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1580-shuffle-the-array](https://github.com/RudeusGs/NeedCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/RudeusGs/NeedCode/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/RudeusGs/NeedCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -351,6 +352,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
+| [1791-richest-customer-wealth](https://github.com/RudeusGs/NeedCode/tree/master/1791-richest-customer-wealth) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
 |  |
