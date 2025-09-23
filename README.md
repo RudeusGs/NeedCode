@@ -75,6 +75,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/RudeusGs/NeedCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
