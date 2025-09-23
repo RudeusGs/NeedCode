@@ -51,6 +51,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RudeusGs/NeedCode/tree/master/0290-word-pattern) |
@@ -214,6 +215,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/RudeusGs/NeedCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
