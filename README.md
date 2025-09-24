@@ -26,6 +26,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0496-next-greater-element-i](https://github.com/RudeusGs/NeedCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
@@ -113,6 +114,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
@@ -196,6 +198,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -284,6 +287,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudeusGs/NeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -306,6 +310,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
