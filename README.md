@@ -9,6 +9,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudeusGs/NeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RudeusGs/NeedCode/tree/master/0012-integer-to-roman) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RudeusGs/NeedCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
@@ -52,6 +53,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RudeusGs/NeedCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RudeusGs/NeedCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RudeusGs/NeedCode/tree/master/0290-word-pattern) |
@@ -157,6 +159,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0009-palindrome-number](https://github.com/RudeusGs/NeedCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/RudeusGs/NeedCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/RudeusGs/NeedCode/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RudeusGs/NeedCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/RudeusGs/NeedCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/RudeusGs/NeedCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
