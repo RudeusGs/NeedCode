@@ -83,6 +83,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3396-valid-word](https://github.com/RudeusGs/NeedCode/tree/master/3396-valid-word) |
+| [3617-find-the-original-typed-string-i](https://github.com/RudeusGs/NeedCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RudeusGs/NeedCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
