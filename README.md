@@ -40,6 +40,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RudeusGs/NeedCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -155,6 +156,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
@@ -332,6 +334,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
 | ------- |
