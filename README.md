@@ -94,6 +94,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0014-longest-common-prefix](https://github.com/RudeusGs/NeedCode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RudeusGs/NeedCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/RudeusGs/NeedCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudeusGs/NeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudeusGs/NeedCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
@@ -279,6 +280,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RudeusGs/NeedCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/RudeusGs/NeedCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/RudeusGs/NeedCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudeusGs/NeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudeusGs/NeedCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
