@@ -119,6 +119,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -204,6 +205,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -241,6 +243,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -257,6 +260,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0268-missing-number](https://github.com/RudeusGs/NeedCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
@@ -334,6 +338,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
