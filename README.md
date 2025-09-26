@@ -28,6 +28,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
+| [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
@@ -125,6 +126,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
@@ -389,6 +391,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RudeusGs/NeedCode/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
@@ -416,4 +419,12 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
