@@ -138,6 +138,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/RudeusGs/NeedCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1115-valid-boomerang](https://github.com/RudeusGs/NeedCode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/RudeusGs/NeedCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
@@ -298,6 +299,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudeusGs/NeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudeusGs/NeedCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/RudeusGs/NeedCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Sliding Window
 |  |
 | ------- |
