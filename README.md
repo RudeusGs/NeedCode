@@ -160,6 +160,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/RudeusGs/NeedCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
