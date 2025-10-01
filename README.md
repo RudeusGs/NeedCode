@@ -125,6 +125,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0605-can-place-flowers](https://github.com/RudeusGs/NeedCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/RudeusGs/NeedCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -317,6 +318,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudeusGs/NeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/RudeusGs/NeedCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/RudeusGs/NeedCode/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
