@@ -9,6 +9,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RudeusGs/NeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RudeusGs/NeedCode/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/RudeusGs/NeedCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RudeusGs/NeedCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/RudeusGs/NeedCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RudeusGs/NeedCode/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0005-longest-palindromic-substring](https://github.com/RudeusGs/NeedCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/RudeusGs/NeedCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/RudeusGs/NeedCode/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/RudeusGs/NeedCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/RudeusGs/NeedCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RudeusGs/NeedCode/tree/master/0058-length-of-last-word) |
@@ -452,4 +454,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/RudeusGs/NeedCode/tree/master/1656-count-good-triplets) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/RudeusGs/NeedCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
