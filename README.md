@@ -84,6 +84,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudeusGs/NeedCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/RudeusGs/NeedCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3396-valid-word](https://github.com/RudeusGs/NeedCode/tree/master/3396-valid-word) |
@@ -366,6 +367,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/RudeusGs/NeedCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/RudeusGs/NeedCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RudeusGs/NeedCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
