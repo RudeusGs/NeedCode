@@ -43,6 +43,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RudeusGs/NeedCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
@@ -91,6 +92,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3396-valid-word](https://github.com/RudeusGs/NeedCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/RudeusGs/NeedCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RudeusGs/NeedCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RudeusGs/NeedCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -351,6 +353,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RudeusGs/NeedCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RudeusGs/NeedCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
