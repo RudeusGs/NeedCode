@@ -168,6 +168,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2211-k-radius-subarray-averages](https://github.com/RudeusGs/NeedCode/tree/master/2211-k-radius-subarray-averages) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -267,6 +268,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/RudeusGs/NeedCode/tree/master/1168-duplicate-zeros) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String Matching
 |  |
 | ------- |
