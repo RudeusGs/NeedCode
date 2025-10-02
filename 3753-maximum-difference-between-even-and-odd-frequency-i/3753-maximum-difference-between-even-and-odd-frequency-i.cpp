@@ -2,26 +2,19 @@ class Solution {
 public:
     int maxDifference(string s) {
         map<char, int> mp;
-        for(auto i : s) mp[i]++;
-        vector<int> res;
+        int a = -1, b = INT_MAX;
+        for(auto i : s){
+            mp[i]++;
+        }
         for(auto i : mp){
-            res.push_back(i.second);
-        }
-        sort(res.rbegin(), res.rend());
-        int a, b;
-        for(auto i : res){
-            if(i % 2 == 1){
-                a = i;
-                break;
+            if(i.second % 2 == 1){
+                a = max(a, i.second);
+            }
+            else{
+                b = min(b, i.second);
             }
         }
-        sort(res.begin(), res.end());
-        for(auto i : res){
-            if(i % 2 == 0){
-                b = i;
-                break;
-            }
-        }
+        if (a == -1 || b == INT_MAX) return 0; 
         return a - b;
     }
 };
