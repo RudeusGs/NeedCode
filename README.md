@@ -208,6 +208,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/RudeusGs/NeedCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/RudeusGs/NeedCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RudeusGs/NeedCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
