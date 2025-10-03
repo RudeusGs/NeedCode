@@ -114,6 +114,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0303-range-sum-query-immutable](https://github.com/RudeusGs/NeedCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/RudeusGs/NeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudeusGs/NeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/RudeusGs/NeedCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
@@ -307,6 +308,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RudeusGs/NeedCode/tree/master/0100-same-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -393,6 +395,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/RudeusGs/NeedCode/tree/master/1127-last-stone-weight) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
@@ -435,6 +438,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
 | [1791-richest-customer-wealth](https://github.com/RudeusGs/NeedCode/tree/master/1791-richest-customer-wealth) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
