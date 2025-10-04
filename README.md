@@ -168,6 +168,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1656-count-good-triplets](https://github.com/RudeusGs/NeedCode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/RudeusGs/NeedCode/tree/master/1791-richest-customer-wealth) |
+| [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -249,6 +250,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RudeusGs/NeedCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -390,6 +392,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/RudeusGs/NeedCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
+| [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
