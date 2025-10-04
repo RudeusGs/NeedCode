@@ -101,6 +101,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RudeusGs/NeedCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RudeusGs/NeedCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/RudeusGs/NeedCode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RudeusGs/NeedCode/tree/master/0118-pascals-triangle) |
@@ -265,6 +266,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RudeusGs/NeedCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/RudeusGs/NeedCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0125-valid-palindrome) |
@@ -374,6 +376,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RudeusGs/NeedCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/RudeusGs/NeedCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/RudeusGs/NeedCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RudeusGs/NeedCode/tree/master/0561-array-partition) |
