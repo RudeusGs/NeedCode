@@ -2,14 +2,22 @@ class Solution {
 public:
     int maximumUnits(vector<vector<int>>& boxTypes, int truckSize) {
         int res = 0;
-        sort(boxTypes.begin(), boxTypes.end(), [](vector<int>& a, vector<int>& b){
-            return a[1] > b[1];
-        });
+        multimap<int, int> mp;
         for(auto i : boxTypes){
-            int take = min(truckSize, i[0]); 
-            res += take * i[1];
-            truckSize -= take;
+            mp.insert({i[0], i[1]});
+        }
+        vector<pair<int, int>> vpa(mp.begin(), mp.end());
+        sort(vpa.begin(), vpa.end(), [](auto &a, auto &b){
+            return a.second > b.second;
+        });
+        for(auto i : vpa){
+            int a = i.first;
             if(truckSize == 0) break;
+            if(a > truckSize){
+                a = truckSize;
+            }
+            res += (a * i.second);
+            truckSize -= a;
         }
         return res;
     }
