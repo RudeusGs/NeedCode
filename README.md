@@ -87,6 +87,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudeusGs/NeedCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RudeusGs/NeedCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -363,6 +364,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0383-ransom-note](https://github.com/RudeusGs/NeedCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -386,6 +388,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/RudeusGs/NeedCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/RudeusGs/NeedCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
