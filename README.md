@@ -139,6 +139,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
@@ -306,6 +307,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RudeusGs/NeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/RudeusGs/NeedCode/tree/master/1646-kth-missing-positive-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -320,6 +322,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0100-same-tree](https://github.com/RudeusGs/NeedCode/tree/master/0100-same-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RudeusGs/NeedCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +330,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RudeusGs/NeedCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -422,6 +426,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/RudeusGs/NeedCode/tree/master/0506-relative-ranks) |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/RudeusGs/NeedCode/tree/master/1127-last-stone-weight) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -466,6 +471,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0407-trapping-rain-water-ii](https://github.com/RudeusGs/NeedCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RudeusGs/NeedCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 | [1791-richest-customer-wealth](https://github.com/RudeusGs/NeedCode/tree/master/1791-richest-customer-wealth) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
@@ -505,4 +511,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RudeusGs/NeedCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
