@@ -77,6 +77,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0412-fizz-buzz](https://github.com/RudeusGs/NeedCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RudeusGs/NeedCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RudeusGs/NeedCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/RudeusGs/NeedCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/RudeusGs/NeedCode/tree/master/0520-detect-capital) |
@@ -302,6 +303,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RudeusGs/NeedCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
