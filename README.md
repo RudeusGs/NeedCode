@@ -29,6 +29,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0575-distribute-candies](https://github.com/RudeusGs/NeedCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/RudeusGs/NeedCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
@@ -84,6 +85,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/RudeusGs/NeedCode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/RudeusGs/NeedCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
