@@ -30,6 +30,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
+| [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
@@ -82,6 +83,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0657-robot-return-to-origin](https://github.com/RudeusGs/NeedCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/RudeusGs/NeedCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/RudeusGs/NeedCode/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -142,6 +144,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0792-binary-search](https://github.com/RudeusGs/NeedCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
+| [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
