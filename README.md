@@ -36,6 +36,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0889-buddy-strings](https://github.com/RudeusGs/NeedCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RudeusGs/NeedCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -162,6 +163,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/RudeusGs/NeedCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0978-valid-mountain-array](https://github.com/RudeusGs/NeedCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -230,6 +232,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0504-base-7](https://github.com/RudeusGs/NeedCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RudeusGs/NeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/RudeusGs/NeedCode/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudeusGs/NeedCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -402,6 +405,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0594-longest-harmonious-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/RudeusGs/NeedCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RudeusGs/NeedCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -482,6 +486,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
