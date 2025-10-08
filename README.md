@@ -198,6 +198,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [3194-find-words-containing-character](https://github.com/RudeusGs/NeedCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +273,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RudeusGs/NeedCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
 ## Trie
@@ -306,6 +308,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/RudeusGs/NeedCode/tree/master/1168-duplicate-zeros) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -326,6 +329,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1612-avoid-flood-in-the-city](https://github.com/RudeusGs/NeedCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/RudeusGs/NeedCode/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Tree
