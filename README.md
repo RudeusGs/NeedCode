@@ -33,6 +33,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0816-design-hashset](https://github.com/RudeusGs/NeedCode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/RudeusGs/NeedCode/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/RudeusGs/NeedCode/tree/master/0889-buddy-strings) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
@@ -91,6 +92,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0822-unique-morse-code-words](https://github.com/RudeusGs/NeedCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/RudeusGs/NeedCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/RudeusGs/NeedCode/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/RudeusGs/NeedCode/tree/master/0889-buddy-strings) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/RudeusGs/NeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
