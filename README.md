@@ -50,6 +50,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2215-finding-3-digit-even-numbers](https://github.com/RudeusGs/NeedCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/RudeusGs/NeedCode/tree/master/2433-best-poker-hand) |
+| [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
@@ -111,6 +112,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RudeusGs/NeedCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
+| [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/RudeusGs/NeedCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/RudeusGs/NeedCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/RudeusGs/NeedCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -211,6 +213,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/RudeusGs/NeedCode/tree/master/2433-best-poker-hand) |
+| [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
 | [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/RudeusGs/NeedCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -289,6 +292,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RudeusGs/NeedCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
 ## Trie
