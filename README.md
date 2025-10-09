@@ -209,6 +209,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
+| [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/RudeusGs/NeedCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -249,6 +250,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RudeusGs/NeedCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/RudeusGs/NeedCode/tree/master/3336-water-bottles-ii) |
@@ -495,6 +497,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 ## Design
 |  |
 | ------- |
@@ -513,6 +516,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0463-island-perimeter](https://github.com/RudeusGs/NeedCode/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
 | [1791-richest-customer-wealth](https://github.com/RudeusGs/NeedCode/tree/master/1791-richest-customer-wealth) |
+| [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
 |  |
