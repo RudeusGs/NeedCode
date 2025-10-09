@@ -169,6 +169,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0932-monotonic-array](https://github.com/RudeusGs/NeedCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/RudeusGs/NeedCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/RudeusGs/NeedCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/RudeusGs/NeedCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
@@ -282,6 +283,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RudeusGs/NeedCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/RudeusGs/NeedCode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/RudeusGs/NeedCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/RudeusGs/NeedCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -323,6 +325,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0541-reverse-string-ii](https://github.com/RudeusGs/NeedCode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/RudeusGs/NeedCode/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/RudeusGs/NeedCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/RudeusGs/NeedCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/RudeusGs/NeedCode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/RudeusGs/NeedCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/RudeusGs/NeedCode/tree/master/1168-duplicate-zeros) |
