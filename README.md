@@ -246,6 +246,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0830-largest-triangle-area](https://github.com/RudeusGs/NeedCode/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/RudeusGs/NeedCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/RudeusGs/NeedCode/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/RudeusGs/NeedCode/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudeusGs/NeedCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudeusGs/NeedCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -387,6 +388,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudeusGs/NeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudeusGs/NeedCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
+| [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RudeusGs/NeedCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Sliding Window
 |  |
@@ -571,4 +573,12 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/RudeusGs/NeedCode/tree/master/0794-swim-in-rising-water) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
