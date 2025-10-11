@@ -53,6 +53,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/RudeusGs/NeedCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RudeusGs/NeedCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -221,6 +222,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RudeusGs/NeedCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RudeusGs/NeedCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -299,6 +301,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Trie
 |  |
 | ------- |
@@ -333,6 +336,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1168-duplicate-zeros](https://github.com/RudeusGs/NeedCode/tree/master/1168-duplicate-zeros) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
 | ------- |
@@ -354,6 +358,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1612-avoid-flood-in-the-city](https://github.com/RudeusGs/NeedCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/RudeusGs/NeedCode/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RudeusGs/NeedCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
 ## Tree
@@ -390,6 +395,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0392-is-subsequence](https://github.com/RudeusGs/NeedCode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RudeusGs/NeedCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -429,6 +435,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2433-best-poker-hand](https://github.com/RudeusGs/NeedCode/tree/master/2433-best-poker-hand) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RudeusGs/NeedCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RudeusGs/NeedCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
