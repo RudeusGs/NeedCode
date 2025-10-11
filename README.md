@@ -45,6 +45,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/RudeusGs/NeedCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RudeusGs/NeedCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -109,6 +110,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/RudeusGs/NeedCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RudeusGs/NeedCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
