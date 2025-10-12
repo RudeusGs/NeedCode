@@ -232,6 +232,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RudeusGs/NeedCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RudeusGs/NeedCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RudeusGs/NeedCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3336-water-bottles-ii](https://github.com/RudeusGs/NeedCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RudeusGs/NeedCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/RudeusGs/NeedCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RudeusGs/NeedCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -418,6 +421,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RudeusGs/NeedCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -572,6 +576,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -593,4 +598,8 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/RudeusGs/NeedCode/tree/master/1086-divisor-game) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
