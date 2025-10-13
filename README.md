@@ -41,6 +41,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1044-find-common-characters](https://github.com/RudeusGs/NeedCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RudeusGs/NeedCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/RudeusGs/NeedCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -109,6 +110,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RudeusGs/NeedCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RudeusGs/NeedCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RudeusGs/NeedCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/RudeusGs/NeedCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -191,6 +193,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/RudeusGs/NeedCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudeusGs/NeedCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RudeusGs/NeedCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudeusGs/NeedCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RudeusGs/NeedCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -299,6 +302,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/RudeusGs/NeedCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RudeusGs/NeedCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
