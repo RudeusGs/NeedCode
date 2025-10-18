@@ -232,6 +232,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RudeusGs/NeedCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RudeusGs/NeedCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RudeusGs/NeedCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RudeusGs/NeedCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -314,6 +315,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/RudeusGs/NeedCode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Trie
 |  |
 | ------- |
@@ -480,6 +482,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/RudeusGs/NeedCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
