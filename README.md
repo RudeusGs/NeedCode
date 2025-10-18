@@ -54,6 +54,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/RudeusGs/NeedCode/tree/master/2433-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RudeusGs/NeedCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RudeusGs/NeedCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -223,6 +224,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/RudeusGs/NeedCode/tree/master/2433-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/RudeusGs/NeedCode/tree/master/2502-sort-the-people) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/RudeusGs/NeedCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudeusGs/NeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -270,6 +272,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RudeusGs/NeedCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2722-prime-in-diagonal](https://github.com/RudeusGs/NeedCode/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RudeusGs/NeedCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -481,6 +484,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/RudeusGs/NeedCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/RudeusGs/NeedCode/tree/master/2032-largest-odd-number-in-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RudeusGs/NeedCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RudeusGs/NeedCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RudeusGs/NeedCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
