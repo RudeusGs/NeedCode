@@ -49,6 +49,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1848-sum-of-unique-elements](https://github.com/RudeusGs/NeedCode/tree/master/1848-sum-of-unique-elements) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/RudeusGs/NeedCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
+| [2032-two-out-of-three](https://github.com/RudeusGs/NeedCode/tree/master/2032-two-out-of-three) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RudeusGs/NeedCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/RudeusGs/NeedCode/tree/master/2429-design-a-food-rating-system) |
@@ -209,6 +210,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-sum-of-unique-elements](https://github.com/RudeusGs/NeedCode/tree/master/1848-sum-of-unique-elements) |
 | [2023-design-movie-rental-system](https://github.com/RudeusGs/NeedCode/tree/master/2023-design-movie-rental-system) |
+| [2032-two-out-of-three](https://github.com/RudeusGs/NeedCode/tree/master/2032-two-out-of-three) |
 | [2058-concatenation-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RudeusGs/NeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RudeusGs/NeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -432,6 +434,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [0389-find-the-difference](https://github.com/RudeusGs/NeedCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RudeusGs/NeedCode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RudeusGs/NeedCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/RudeusGs/NeedCode/tree/master/2032-two-out-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RudeusGs/NeedCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RudeusGs/NeedCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
