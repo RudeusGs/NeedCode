@@ -196,6 +196,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1293-three-consecutive-odds](https://github.com/RudeusGs/NeedCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudeusGs/NeedCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RudeusGs/NeedCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/RudeusGs/NeedCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RudeusGs/NeedCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RudeusGs/NeedCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RudeusGs/NeedCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -311,6 +312,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1137-height-checker](https://github.com/RudeusGs/NeedCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/RudeusGs/NeedCode/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RudeusGs/NeedCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/RudeusGs/NeedCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RudeusGs/NeedCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RudeusGs/NeedCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -482,6 +484,7 @@ Bộ sưu tập các lời giải LeetCode của tôi, được code bằng C++.
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/RudeusGs/NeedCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/RudeusGs/NeedCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RudeusGs/NeedCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/RudeusGs/NeedCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1448-maximum-69-number](https://github.com/RudeusGs/NeedCode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/RudeusGs/NeedCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1829-maximum-units-on-a-truck](https://github.com/RudeusGs/NeedCode/tree/master/1829-maximum-units-on-a-truck) |
